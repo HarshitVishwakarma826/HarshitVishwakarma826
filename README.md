@@ -51,9 +51,9 @@ Currently focused on:
 
 ## 🧠 Problem Solving
 
-- 🟢 LeetCode — 1000+ problems
-- 🟡 Codeforces — Competitive Programming
-- 🔵 GeeksforGeeks — DSA
+- 🟢 LeetCode — 500+ problems
+- 🟡 CodeChef — Competitive Programming
+- 🔵 GeeksforGeeks — 400+ problems
 
 > "Consistency beats intensity."
 
