@@ -109,7 +109,11 @@ Explore my [data science repositories](https://github.com/Siamheil?tab=repositor
 <br/><br/>
 
 <a href="https://leetcode.com/carpe_diemmmmmm/">
-<img src="https://leetcard.jacoblin.cool/Siamheil?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="500" />
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/carpe_diemmmmmm?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/harshit123/)
+
+</div>
 </a>
 
 <br/><br/>
