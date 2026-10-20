@@ -128,6 +128,18 @@ Explore my [data science repositories](https://github.com/Siamheil?tab=repositor
 
 <div align="center">
 
-*Build. Solve. Learn. Repeat.*
+
+---
+
+<div align="center">
+
+### ✦ A Thought to Remember ✦
+
+*Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.*
+
+**- Rabindranath Tagore**
+
+</div>
+
 
 </div>
