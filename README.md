@@ -1,70 +1,101 @@
-# Hey, I'm Harshit 👋
 
-### Full-Stack Developer • Problem Solver • AI Enthusiast
+<div align="center">
 
-I build things that solve real problems — from full-stack web applications
-to AI-powered systems.
+# Hi, I'm Harshit 👋
 
-Currently focused on:
+### Full-Stack Developer | C++ | Problem Solving
 
-- 🚀 Full-Stack Development
-- 🧠 Data Structures & Algorithms
-- 🤖 Machine Learning & Generative AI
-- 🏆 Hackathons & Real-world Projects
+Building web applications, exploring AI, and sharpening my problem-solving skills.
 
-## 🚀 Currently Building
+[![GitHub](https://img.shields.io/badge/GitHub-Siamheil-181717?style=for-the-badge&logo=github)](https://github.com/Siamheil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshit826)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-6C63FF?style=for-the-badge)](https://codolio.com/profile/Harshit826)
 
-🔹 **Project Saathi** — AI-powered disaster management platform  
-🔹 Full-stack MERN applications  
-🔹 DSA problem-solving toolkit  
-🔹 Exploring Generative AI & LLM applications
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BTech Computer Science student
+- 💻 Interested in full-stack software development
+- 🧠 Practicing Data Structures and Algorithms in C++
+- 🤖 Exploring machine learning and AI-powered applications
+- 🚀 Focused on building practical projects and learning by doing
 
 ## 🛠️ Tech Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+**Languages**
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+**Frontend**
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## ⭐ Featured Projects
+**Backend & Database**
 
-| Project | Description | Tech |
-|---|---|---|
-| 🚨 Project Saathi | Disaster management & emergency response platform | MERN + AI |
-| 💪 FitTrack | Fitness tracking & training platform | HTML + CSS + JS + PHP |
-| 💼 Job Tracker | Job application management platform | MERN |
-| 🏦 Banking System | Banking management application | C++ / DBMS |
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
+**Tools**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siamheil&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siamheil&theme=tokyonight" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## 🧠 Problem Solving
+## 🚀 Featured Projects
 
-- 🟢 LeetCode — 500+ problems
-- 🟡 CodeChef — Competitive Programming
-- 🔵 GeeksforGeeks — 400+ problems
+### 🧩 [Algorithm Armory](https://github.com/Siamheil/algorithm-armory)
+A collection of Data Structures and Algorithms practice solutions in C++.
 
-> "Consistency beats intensity."
+**Focus:** Problem solving · DSA · C++
 
-## 🐍 Contribution Graph
+### 💪 FitTrack
+A fitness tracking project focused on workout and calorie-related features.
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+**Focus:** HTML · CSS · JavaScript · PHP
 
-## 🌱 Beyond Code
+### 🌍 Suraksha Saathi
+A disaster-management project focused on hazard awareness and risk-based decision support.
 
-🎯 Building projects that solve real-world problems  
-🏆 Participating in hackathons  
-📚 Constantly learning  
-🎵 Music & Ghazals  
-🎬 Movies & storytelling
+**Focus:** Full-stack development · GIS · AI/ML
+
+### 📊 Data Science Projects
+
+Explore my [data science repositories](https://github.com/Siamheil?tab=repositories&q=PRODIGY_DS).
+
+**Focus:** Python · Pandas · Data analysis · Visualization
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siamheil&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siamheil&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Siamheil&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshit826)
+- 🧠 [Codolio](https://codolio.com/profile/Harshit826)
+- 💻 [GitHub Repositories](https://github.com/Siamheil?tab=repositories)
+
+---
+
+<div align="center">
+
+*Build. Solve. Learn. Repeat.*
+
+</div>
