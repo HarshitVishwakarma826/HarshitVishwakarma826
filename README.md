@@ -111,7 +111,6 @@ Explore my [data science repositories](https://github.com/Siamheil?tab=repositor
 <a href="https://leetcode.com/carpe_diemmmmmm/">
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/carpe_diemmmmmm?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/harshit123/)
 
 </div>
 </a>
@@ -126,6 +125,14 @@ Explore my [data science repositories](https://github.com/Siamheil?tab=repositor
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Siamheil/Siamheil/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
 <div align="center">
 
 
@@ -133,7 +140,7 @@ Explore my [data science repositories](https://github.com/Siamheil?tab=repositor
 
 <div align="center">
 
-### ✦ A Thought to Remember ✦
+### ✦ Beyond the Code ✦
 
 *Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.*
 
