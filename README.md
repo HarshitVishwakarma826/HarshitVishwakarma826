@@ -125,13 +125,6 @@ Explore my [data science repositories](https://github.com/Siamheil?tab=repositor
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Siamheil/Siamheil/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
 
 <div align="center">
 
