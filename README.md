@@ -1,15 +1,15 @@
 
 <div align="center">
 
-# Hi, I'm Harshit 👋
+# Hey, I'm Harshit 👋
 
-### Full-Stack Developer | C++ | Problem Solving
+### Software Developer | C++ | Full-Stack Development | Problem Solving
 
-Building web applications, exploring AI, and sharpening my problem-solving skills.
+Building practical applications, solving algorithmic problems, and learning by shipping projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Siamheil-181717?style=for-the-badge&logo=github)](https://github.com/Siamheil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshit826)
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-6C63FF?style=for-the-badge)](https://codolio.com/profile/Harshit826)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harshit826)
+[![GitHub](https://img.shields.io/badge/GitHub-Siamheil-181717?style=flat-square&logo=github)](https://github.com/Siamheil)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-6C63FF?style=flat-square)](https://codolio.com/profile/Harshit826)
 
 </div>
 
@@ -17,11 +17,29 @@ Building web applications, exploring AI, and sharpening my problem-solving skill
 
 ## 👨‍💻 About Me
 
-- 🎓 BTech Computer Science student
-- 💻 Interested in full-stack software development
-- 🧠 Practicing Data Structures and Algorithms in C++
-- 🤖 Exploring machine learning and AI-powered applications
-- 🚀 Focused on building practical projects and learning by doing
+- 🎓 Computer Science undergraduate focused on software engineering.
+- 💻 Practicing Data Structures and Algorithms using C++.
+- 🌐 Building web applications and learning full-stack development.
+- 🤖 Exploring AI/ML and data-driven problem solving.
+- 🏆 Interested in hackathons and projects that address real-world problems.
+- 📈 Improving through consistent coding, experimentation, and project building.
+
+---
+
+## 🚀 Featured Work
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Algorithm Armory](https://github.com/Siamheil/algorithm-armory) | Collection of LeetCode and GeeksforGeeks solutions organized by topic. | C++ |
+| [Strivers A2Z](https://github.com/Siamheil/StriversA2Z) | Topic-wise practice for Data Structures and Algorithms. | C++ |
+| [Titanic Survival Analysis](https://github.com/Siamheil/Titanic-Survival-Data-Analysis) | Data cleaning and exploratory analysis of the Titanic dataset. | Python, Jupyter |
+| [World Population Visualization](https://github.com/Siamheil/World-Population-Data-Visualization) | Exploring and visualizing population data. | Python, Jupyter |
+| [Bank Marketing Analysis](https://github.com/Siamheil/Bank-Marketing-Data-Analysis-Prediction) | Data analysis and prediction using bank marketing data. | Python, Jupyter |
+| [Traffic Accident Insights](https://github.com/Siamheil/Traffic-Accident-Patterns-Insights) | Exploring traffic accident data and patterns. | Python, Jupyter |
+
+> Currently exploring full-stack development and working on Suraksha Saathi, a disaster-management project.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -30,21 +48,20 @@ Building web applications, exploring AI, and sharpening my problem-solving skill
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Tools**
 
@@ -52,94 +69,61 @@ Building web applications, exploring AI, and sharpening my problem-solving skill
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Featured Projects
+---
 
-### 🧩 [Algorithm Armory](https://github.com/Siamheil/algorithm-armory)
-A collection of Data Structures and Algorithms practice solutions in C++.
+## 🧠 Problem Solving
 
-**Focus:** Problem solving · DSA · C++
+I use competitive programming and structured DSA practice to improve my problem-solving skills.
 
-### 💪 FitTrack
-A fitness tracking project focused on workout and calorie-related features.
-
-**Focus:** HTML · CSS · JavaScript · PHP
-
-### 🌍 Suraksha Saathi
-A disaster-management project focused on hazard awareness and risk-based decision support.
-
-**Focus:** Full-stack development · GIS · AI/ML
-
-### 📊 Data Science Projects
-
-Explore my [data science repositories](https://github.com/Siamheil?tab=repositories&q=PRODIGY_DS).
-
-**Focus:** Python · Pandas · Data analysis · Visualization
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siamheil&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siamheil&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Siamheil&theme=github-dark-blue&hide_border=true)
-
-</div>
-
-## 🤝 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshit826)
-- 🧠 [Codolio](https://codolio.com/profile/Harshit826)
-- 💻 [GitHub Repositories](https://github.com/Siamheil?tab=repositories)
+- 💻 [LeetCode](YOUR_LEETCODE_PROFILE_URL)
+- 📚 [GeeksforGeeks](YOUR_GEEKSFORGEEKS_PROFILE_URL)
+- 🗂️ [Algorithm Armory — DSA Repository](https://github.com/Siamheil/algorithm-armory)
 
 ---
 
-## `05` — Problem Solving & Coding Profiles
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Siamheil&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
 
-<br/><br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siamheil&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
 
-<a href="https://leetcode.com/carpe_diemmmmmm/">
-<div align="center">
-
-
-</div>
-</a>
-
-<br/><br/>
-
-<a href="https://www.geeksforgeeks.org/harshitt47p">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice%20DSA-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GFG Practice" />
-</a>
+<img src="https://streak-stats.demolab.com?user=Siamheil&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
+## 🐍 Contribution Graph
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Siamheil/Siamheil/output/github-contribution-grid-snake.svg" alt="Contribution graph snake" />
+
+</div>
+
+---
+
+## 🌱 Beyond the Code
+
+- 🧩 Breaking down complex problems into simpler steps.
+- 🚀 Turning ideas into working projects.
+- 📚 Learning new technologies through hands-on practice.
+- 🎵 Enjoying music, ghazals, and good storytelling.
 
 ---
 
 <div align="center">
 
-### ✦ Beyond the Code ✦
+### 💭 A Thought to Remember
 
-*Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.*
+*"Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal."*
 
-**- Rabindranath Tagore**
+**— Rabindranath Tagore**
 
-</div>
+<br/>
 
+*Build with purpose. Learn with curiosity. Keep moving forward.*
 
 </div>
