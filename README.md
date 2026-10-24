@@ -1,131 +1,266 @@
 
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=HARSHIT&fontSize=65&fontColor=ffffff&stroke=6366f1&strokeWidth=1&animation=fadeIn&desc=Software%20Developer%20%7C%20C%2B%2B%20%7C%20Full%20Stack&descSize=17&descAlignY=68&color=0:0f172a,100:312e81" width="100%" alt="Harshit — Software Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1D4ED8,100:06B6D4&text=HARSHIT%20VISHWAKARMA&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20C%2B%2B%20%7C%20Problem%20Solving&descSize=16&descAlignY=58" width="100%" />
 
 <br/>
 
 <a href="https://github.com/Siamheil">
-  <img src="https://img.shields.io/badge/GitHub-Siamheil-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/harshit826">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://codolio.com/profile/Harshit826">
-  <img src="https://img.shields.io/badge/Codolio-Profile-6C63FF?style=for-the-badge" alt="Codolio"/>
+  <img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-*Building useful things. Solving challenging problems. Learning by doing.*
+*Building useful things. Solving problems. Getting better every day.*
 
 </div>
 
 ---
 
-## `01` &nbsp; About Me
+## 👨‍💻 About Me
 
-<img align="right" width="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siamheil&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used languages"/>
-
-- 🎓 Computer Science undergraduate.
-- 💻 Focused on DSA and problem-solving in C++.
-- 🌐 Building applications with modern web technologies.
-- 🤖 Exploring machine learning and data-driven solutions.
-- 🚀 Interested in building projects that solve real problems.
-
-<br clear="right"/>
+- 🎓 B.Tech Computer Science student
+- 💻 Interested in full-stack software development
+- 🧠 Solving Data Structures & Algorithms problems using C++
+- 🌐 Building web applications with modern technologies
+- 🤖 Exploring AI/ML and practical data-driven applications
+- 🚀 Focused on writing better code and building real-world projects
 
 ---
 
-## `02` &nbsp; Tech Stack
+## 🧰 Tech Stack
 
-<div align="center">
+### 🎨 Frontend Development
 
-**LANGUAGES**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,php&theme=dark" alt="C++, JavaScript, Python and PHP"/>
+### ⚙️ Backend Development
 
-**FRONTEND**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="HTML, CSS, React and Tailwind CSS"/>
+### 🗄️ Databases
 
-**BACKEND & DATABASE**
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB and MySQL"/>
+### 🔧 Tools & Platforms
 
-**TOOLS**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite&theme=dark" alt="Git, GitHub, VS Code and Vite"/>
+### 💻 Programming & Problem Solving
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1E293B?style=for-the-badge" />
+</p>
 
 ---
 
-## `03` &nbsp; Featured Projects
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>⚔️ Algorithm Armory</h3>
+### 🌍 Vyoma
 
-A growing collection of coding solutions for practicing algorithms, data structures, and problem-solving patterns.
+**Mapping Risks. Finding Safer Ground.**
 
-<img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+A GIS-based disaster-risk assessment platform focused on identifying hazard-prone regions and supporting safer relocation decisions.
 
-<br/><br/>
+**Focus areas**
+- Geographic risk visualization
+- Multi-hazard assessment
+- Risk-based decision support
 
-<a href="https://github.com/Siamheil/algorithm-armory">
-<img src="https://img.shields.io/badge/Explore_Repository-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore Algorithm Armory"/>
+<a href="https://github.com/Dhruv-Kashyap-3009/Vyoma">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📰 NewsOrbit</h3>
+### 📰 The Morning Dispatch
 
-A news-focused application built to provide a convenient way to discover and browse news.
+A news-focused project designed to present news content in a clean, accessible interface.
 
-<img src="https://img.shields.io/badge/Web_Development-0EA5E9?style=flat-square" alt="Web development"/>
+**Focus areas**
+- News browsing
+- Responsive user interface
+- Content presentation
+
+<!-- Replace REPLACE_WITH_MORNING_DISPATCH_REPO with your actual repository URL -->
+
+<a href="https://github.com/Siamheil">
+<img src="https://img.shields.io/badge/Find%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💸 Expense Management
+
+A console-based C++ application for tracking shared monthly expenses between friends and calculating who owes whom.
+
+**Focus areas**
+- Expense tracking
+- Shared bill splitting
+- Settlement calculations
+
+<!-- Replace with the actual repository link after uploading the project -->
+
+<a href="https://github.com/Siamheil?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Disease Prediction System
+
+A machine-learning-based project focused on disease prediction from input health-related features.
+
+**Focus areas**
+- Machine learning
+- Data preprocessing
+- Prediction workflows
+
+<a href="https://github.com/Siamheil/Disease-Prediction-System">
+<img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+
+## 🧠 Coding Profiles
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🟠 LeetCode
+
+<a href="https://leetcode.com/u/carpe__diemm/">
+<img src="https://img.shields.io/badge/LeetCode-carpe__diemm-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 <br/><br/>
 
-<a href="YOUR_NEWSORBIT_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/Explore_Repository-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore NewsOrbit"/>
+<img src="https://leetcard.jacoblin.cool/carpe__diemm?theme=dark&font=Ubuntu&ext=contest" width="100%" />
+
+<br/>
+
+<a href="https://leetcode.com/u/carpe__diemm/">
+View Profile ↗
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 🟢 GeeksforGeeks
+
+<a href="https://www.geeksforgeeks.org/profile/harshitt47p">
+<img src="https://img.shields.io/badge/GeeksforGeeks-harshitt47p-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.geeksforgeeks.org/profile/harshitt47p">
+<img src="https://img.shields.io/badge/Questions%20Solved-View%20Live%20Profile-166534?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.geeksforgeeks.org/profile/harshitt47p">
+View Profile ↗
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+### Codolio
+
+<a href="https://codolio.com/profile/Harshit826">
+<img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Siamheil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siamheil&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://github.com/Siamheil">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://www.linkedin.com/in/harshit826">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
-<h3>🌌 Vyoma</h3>
-
-A software project demonstrating application development and practical engineering.
-
-<img src="https://img.shields.io/badge/Development-8B5CF6?style=flat-square" alt="Development"/>
-
-<br/><br/>
-
-<a href="YOUR_VYOMA_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/Explore_Repository-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore Vyoma"/>
+<a href="https://codolio.com/profile/Harshit826">
+<img src="https://img.shields.io/badge/Codolio-Coding%20Portfolio-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td align="center">
 
-<h3>🩺 Disease Prediction System</h3>
-
-A machine-learning project exploring disease prediction from input features.
-
-<img src="https://img.shields.io/badge/Machine_Learning-10B981?style=flat-square" alt="Machine learning"/>
-
-<br/><br/>
-
-<a href="YOUR_DISEASE_PREDICTION_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/Explore_Repository-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore Disease Prediction System"/>
+<a href="https://github.com/Siamheil?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore%20Repositories-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -136,48 +271,10 @@ A machine-learning project exploring disease prediction from input features.
 
 ---
 
-## `04` &nbsp; Problem Solving
-
 <div align="center">
 
-<a href="YOUR_LEETCODE_PROFILE_URL">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
+### ✦ Keep Building. Keep Learning. ✦
 
-<a href="YOUR_GEEKSFORGEEKS_PROFILE_URL">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Siamheil/algorithm-armory">Explore my DSA repository →</a>
-
-</div>
-
----
-
-## `05` &nbsp; GitHub Overview
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Siamheil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Siamheil&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak statistics"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Beyond the Code
-
-*“Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.”*
-
-**— Rabindranath Tagore**
-
-<br/>
-
-<sub>Thanks for visiting my profile. Feel free to explore my repositories!</sub>
+*First, solve the problem. Then, write the code.*
 
 </div>
