@@ -199,7 +199,7 @@ View Profile ↗
 
   <br><br>
 
-  <!-- GFG Statistics Card -->
+  <!-- GFG Statistics -->
   <a href="https://www.geeksforgeeks.org/profile/harshitt47p">
     <img
       src="https://gfgstatscard.vercel.app/harshitt47p"
@@ -214,13 +214,12 @@ View Profile ↗
   <h3>🏆 College Ranking</h3>
 
   <img
-    src="https://img.shields.io/badge/COLLEGE%20RANK-YOUR_COLLEGE_RANK-FFA116?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+    src="https://img.shields.io/badge/COLLEGE%20RANK-YOUR_RANK-FFA116?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
     alt="GeeksforGeeks College Rank"
   />
 
   <br><br>
 
-  <!-- Profile Link -->
   <a href="https://www.geeksforgeeks.org/profile/harshitt47p">
     View Profile ↗
   </a>
