@@ -179,23 +179,52 @@ View Profile ↗
 </a>
 
 </td>
-<td width="50%" align="center">
+<!-- GeeksforGeeks Section -->
+<td width="50%" align="center" valign="middle">
+
   <h3>🟢 GeeksforGeeks</h3>
 
   <a href="https://www.geeksforgeeks.org/profile/harshitt47p">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-HARSHITT47P-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+      alt="GeeksforGeeks"
+    />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/harshitt47p">
+    <img
+      src="https://img.shields.io/badge/HARSHITT47P-2F8D46?style=for-the-badge"
+      alt="GFG Username"
+    />
   </a>
 
   <br><br>
 
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=harshitt47p" 
-       alt="GeeksforGeeks Stats" />
+  <!-- GFG Statistics Card -->
+  <a href="https://www.geeksforgeeks.org/profile/harshitt47p">
+    <img
+      src="https://gfgstatscard.vercel.app/harshitt47p"
+      alt="GeeksforGeeks Statistics"
+      width="95%"
+    />
+  </a>
 
-  <br>
+  <br><br>
 
+  <!-- College Ranking -->
+  <h3>🏆 College Ranking</h3>
+
+  <img
+    src="https://img.shields.io/badge/COLLEGE%20RANK-YOUR_COLLEGE_RANK-FFA116?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+    alt="GeeksforGeeks College Rank"
+  />
+
+  <br><br>
+
+  <!-- Profile Link -->
   <a href="https://www.geeksforgeeks.org/profile/harshitt47p">
     View Profile ↗
   </a>
+
 </td>
 </tr>
 </table>
