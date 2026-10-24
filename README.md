@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-*Building useful things. Solving problems. Getting better every day.*
+*Whatever the mind of human can conceive and believe, it can achieve*
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science student
+- 🎓 B.Tech Computer Science & Engineering ( Data Science )
 - 💻 Interested in full-stack software development
 - 🧠 Solving Data Structures & Algorithms problems using C++
 - 🌐 Building web applications with modern technologies
@@ -59,7 +59,7 @@
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### 💻 Programming & Problem Solving
@@ -88,7 +88,7 @@ A GIS-based disaster-risk assessment platform focused on identifying hazard-pron
 - Multi-hazard assessment
 - Risk-based decision support
 
-<a href="https://github.com/Dhruv-Kashyap-3009/Vyoma">
+<a href=https://github.com/Siamheil/Vyoma>
 <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -106,7 +106,7 @@ A news-focused project designed to present news content in a clean, accessible i
 
 <!-- Replace REPLACE_WITH_MORNING_DISPATCH_REPO with your actual repository URL -->
 
-<a href="https://github.com/Siamheil">
+<a href="https://the-morning-dispatch.vercel.app">
 <img src="https://img.shields.io/badge/Find%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -127,7 +127,7 @@ A console-based C++ application for tracking shared monthly expenses between fri
 
 <!-- Replace with the actual repository link after uploading the project -->
 
-<a href="https://github.com/Siamheil?tab=repositories">
+<a href="https://github.com/Siamheil/Expense-Management-Console-Application">
 <img src="https://img.shields.io/badge/View%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -273,8 +273,7 @@ View Profile ↗
 
 <div align="center">
 
-### ✦ Keep Building. Keep Learning. ✦
-
-*First, solve the problem. Then, write the code.*
+“Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.”
+― Rabindranath Tagore
 
 </div>
