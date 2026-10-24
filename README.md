@@ -179,26 +179,23 @@ View Profile ↗
 </a>
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
+  <h3>🟢 GeeksforGeeks</h3>
 
-### 🟢 GeeksforGeeks
+  <a href="https://www.geeksforgeeks.org/profile/harshitt47p">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-HARSHITT47P-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 
-<a href="https://www.geeksforgeeks.org/profile/harshitt47p">
-<img src="https://img.shields.io/badge/GeeksforGeeks-harshitt47p-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+  <br><br>
 
-<br/><br/>
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=harshitt47p" 
+       alt="GeeksforGeeks Stats" />
 
-<a href="https://www.geeksforgeeks.org/profile/harshitt47p">
-<img src="https://img.shields.io/badge/Questions%20Solved-View%20Live%20Profile-166534?style=for-the-badge"/>
-</a>
+  <br>
 
-<br/><br/>
-
-<a href="https://www.geeksforgeeks.org/profile/harshitt47p">
-View Profile ↗
-</a>
-
+  <a href="https://www.geeksforgeeks.org/profile/harshitt47p">
+    View Profile ↗
+  </a>
 </td>
 </tr>
 </table>
