@@ -7,7 +7,7 @@
 
 <br/>
 
-<a href="https://github.com/Siamheil">
+<a href="https://github.com/HarshitVishwakarma826">
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/harshit826">
@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-*Whatever the mind of human can conceive and believe, it can achieve*
+*Whatever the mind of human can conceive and believe, it can achieve.*
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering ( Data Science )
+- 🎓 B.Tech Computer Science & Engineering (Data Science)
 - 💻 Interested in full-stack software development
 - 🧠 Solving Data Structures & Algorithms problems using C++
 - 🌐 Building web applications with modern technologies
@@ -83,12 +83,12 @@
 
 A GIS-based disaster-risk assessment platform focused on identifying hazard-prone regions and supporting safer relocation decisions.
 
-**Focus areas**
+**Focus Areas**
 - Geographic risk visualization
 - Multi-hazard assessment
 - Risk-based decision support
 
-<a href=https://github.com/Siamheil/Vyoma>
+<a href="https://github.com/HarshitVishwakarma826/Vyoma">
 <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -99,15 +99,13 @@ A GIS-based disaster-risk assessment platform focused on identifying hazard-pron
 
 A news-focused project designed to present news content in a clean, accessible interface.
 
-**Focus areas**
+**Focus Areas**
 - News browsing
 - Responsive user interface
 - Content presentation
 
-<!-- Replace REPLACE_WITH_MORNING_DISPATCH_REPO with your actual repository URL -->
-
 <a href="https://the-morning-dispatch.vercel.app">
-<img src="https://img.shields.io/badge/Find%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
@@ -120,15 +118,13 @@ A news-focused project designed to present news content in a clean, accessible i
 
 A console-based C++ application for tracking shared monthly expenses between friends and calculating who owes whom.
 
-**Focus areas**
+**Focus Areas**
 - Expense tracking
 - Shared bill splitting
 - Settlement calculations
 
-<!-- Replace with the actual repository link after uploading the project -->
-
-<a href="https://github.com/Siamheil/Expense-Management-Console-Application">
-<img src="https://img.shields.io/badge/View%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/HarshitVishwakarma826/Expense-Management-Console-Application">
+<img src="https://img.shields.io/badge/View%20Project-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -138,12 +134,12 @@ A console-based C++ application for tracking shared monthly expenses between fri
 
 A machine-learning-based project focused on disease prediction from input health-related features.
 
-**Focus areas**
+**Focus Areas**
 - Machine learning
 - Data preprocessing
 - Prediction workflows
 
-<a href="https://github.com/Siamheil/Disease-Prediction-System">
+<a href="https://github.com/HarshitVishwakarma826/Disease-Prediction-System">
 <img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -152,7 +148,6 @@ A machine-learning-based project focused on disease prediction from input health
 </table>
 
 ---
-
 
 ## 🧠 Coding Profiles
 
@@ -170,59 +165,40 @@ A machine-learning-based project focused on disease prediction from input health
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/carpe__diemm?theme=dark&font=Ubuntu&ext=contest" width="100%" />
+<img src="https://leetcard.jacoblin.cool/carpe__diemm?theme=dark&font=Ubuntu&ext=contest" width="100%" alt="LeetCode Statistics"/>
 
-<br/>
+<br/><br/>
 
-<a href="https://leetcode.com/u/carpe__diemm/">
-View Profile ↗
-</a>
+<a href="https://leetcode.com/u/carpe__diemm/">View Profile ↗</a>
 
 </td>
-<!-- GeeksforGeeks Section -->
-<td width="50%" align="center" valign="middle">
+<td align="center" width="50%" valign="middle">
 
-  <h3>🟢 GeeksforGeeks</h3>
+### 🟢 GeeksforGeeks
 
-  <a href="https://www.geeksforgeeks.org/profile/harshitt47p">
-    <img
-      src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-      alt="GeeksforGeeks"
-    />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/harshitt47p">
-    <img
-      src="https://img.shields.io/badge/HARSHITT47P-2F8D46?style=for-the-badge"
-      alt="GFG Username"
-    />
-  </a>
+<a href="https://www.geeksforgeeks.org/profile/harshitt47p">
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
 
-  <br><br>
+<a href="https://www.geeksforgeeks.org/profile/harshitt47p">
+<img src="https://img.shields.io/badge/HARSHITT47P-2F8D46?style=for-the-badge" alt="GFG Username"/>
+</a>
 
-  <!-- GFG Statistics -->
-  <a href="https://www.geeksforgeeks.org/profile/harshitt47p">
-    <img
-      src="https://gfgstatscard.vercel.app/harshitt47p"
-      alt="GeeksforGeeks Statistics"
-      width="95%"
-    />
-  </a>
+<br/><br/>
 
-  <br><br>
+<a href="https://www.geeksforgeeks.org/profile/harshitt47p">
+<img src="https://gfgstatscard.vercel.app/harshitt47p" alt="GeeksforGeeks Statistics" width="95%"/>
+</a>
 
-  <!-- College Ranking -->
-  <h3>🏆 College Ranking</h3>
+<br/><br/>
 
-  <img
-    src="https://img.shields.io/badge/COLLEGE%20RANK-YOUR_RANK-FFA116?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-    alt="GeeksforGeeks College Rank"
-  />
+### 🏆 College Ranking
 
-  <br><br>
+<img src="https://img.shields.io/badge/COLLEGE%20RANK-YOUR_RANK-FFA116?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks College Rank"/>
 
-  <a href="https://www.geeksforgeeks.org/profile/harshitt47p">
-    View Profile ↗
-  </a>
+<br/><br/>
+
+<a href="https://www.geeksforgeeks.org/profile/harshitt47p">View Profile ↗</a>
 
 </td>
 </tr>
@@ -230,14 +206,11 @@ View Profile ↗
 
 </div>
 
-
-### Codolio
+### 🟣 Codolio
 
 <a href="https://codolio.com/profile/Harshit826">
-<img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
 </a>
-
-</div>
 
 ---
 
@@ -249,7 +222,7 @@ View Profile ↗
 <tr>
 <td align="center" width="50%">
 
-<a href="https://github.com/Siamheil">
+<a href="https://github.com/HarshitVishwakarma826">
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -272,7 +245,7 @@ View Profile ↗
 </td>
 <td align="center">
 
-<a href="https://github.com/Siamheil?tab=repositories">
+<a href="https://github.com/HarshitVishwakarma826?tab=repositories">
 <img src="https://img.shields.io/badge/Projects-Explore%20Repositories-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -286,7 +259,8 @@ View Profile ↗
 
 <div align="center">
 
-“Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.”
-― Rabindranath Tagore
+*"Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal."*
+
+— Rabindranath Tagore
 
 </div>
